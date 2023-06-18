@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_USER": "locnguyenddbrvt",
+    "MONGO_PASSWORD": "Aas123123",
+    "MONGO_DATABASE": "Interview_VRILLAR-VIETNAM",
+    "DOMAIN": "http://cayxanh.click",
+    "RAPID_API_KEY": "ca743d3970msh6daef74be8e94dap1cd736jsn3171cf35ba83"
+  }
+}

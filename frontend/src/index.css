@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,33 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+@font-face {
+  font-family: "fontBlack";
+  src: url("./assets/fonts/Formula1-Wide_web_0.ttf");
 }
+@font-face {
+  font-family: "fontRegular";
+  src: url("./assets/fonts/Formula1-Regular_web_0.ttf");
+}
+@font-face {
+  font-family: "fontBold";
+  src: url("./assets/fonts/Formula1-Bold_web_0.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: l; */
+  /* background-color: #747474; */
+  /* position: color 2s ear; */
+  /* transform:translateX(cal()); */
+  /* display: grid;
+  grid-template-columns: repeat(4, 1fr); */
+  /* justify-content: space-between; */
+}
+
+/* .test {
+  font-family: ;
+} */
